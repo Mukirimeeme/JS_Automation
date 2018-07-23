@@ -1,0 +1,9 @@
+.idea
+node_modules
+.DS_store
+.npmrc
+out
+gen
+logs/
+npm-debug.log
+reports
