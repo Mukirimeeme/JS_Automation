@@ -21,7 +21,6 @@ module.exports = {
         landingPage.navigateToPage();
 
         landingPage.waitForPageToLoad();
-
         browser.end();
 
     }
