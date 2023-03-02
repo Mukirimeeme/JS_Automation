@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "chromedriver": "^2.40.0",
-    "nightwatch": "^0.9.21",
+    "nightwatch": "^2.6.16",
     "selenium-server-standalone": "^2.53.1",
     "selenium-server-standalone-jar": "^3.13.0"
   }
